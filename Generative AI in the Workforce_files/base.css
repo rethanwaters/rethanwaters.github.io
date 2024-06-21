@@ -41,7 +41,20 @@ body > .container {
     background-color: var(--bs-secondary-bg-subtle);
     border: 1px solid var(--bs-secondary-border-subtle);
     border-radius: 4px;
-    margin: 20px auto 30px auto;
+    margin: 20px auto 10px auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.align {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
